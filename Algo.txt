@@ -1,0 +1,5 @@
+1. find resturant you want to order the pizza from
+2. find the pizza you would like to order
+3. call the pizza resturant and order the pizza of your choice
+4. go to pizza resturant and pay and pick up the pizza
+5. go home and eat the pizza
